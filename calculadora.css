@@ -123,3 +123,7 @@ body {
 .igual:focus {
   outline: 0;
 }
+.numero:hover {
+  background-color: gray;
+}
+
